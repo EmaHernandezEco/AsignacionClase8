@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-15T21:55:41 ART" name="Default suite" finished-at="2023-01-15T21:57:02 ART" duration-ms="80812">
+    <groups>
+    </groups>
+    <test started-at="2023-01-15T21:55:41 ART" name="Default test" finished-at="2023-01-15T21:57:02 ART" duration-ms="80812">
+      <class name="Edit.SauceDemo.Asignacion6">
+        <test-method is-config="true" signature="irASauceDemo()[pri:0, instance:Edit.SauceDemo.Asignacion6@235834f2]" started-at="2023-01-15T21:55:36 ART" name="irASauceDemo" finished-at="2023-01-15T21:55:41 ART" duration-ms="5216" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- irASauceDemo -->
+        <test-method signature="pruebaSauceDemo(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Edit.SauceDemo.Asignacion6@235834f2]" started-at="2023-01-15T21:55:42 ART" name="pruebaSauceDemo" data-provider="Datos Login" finished-at="2023-01-15T21:55:45 ART" duration-ms="3005" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[asdf]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[asdf]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[bike light]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Emanuel]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Hernandez]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[2000]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pruebaSauceDemo -->
+        <test-method signature="pruebaSauceDemo(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Edit.SauceDemo.Asignacion6@235834f2]" started-at="2023-01-15T21:55:45 ART" name="pruebaSauceDemo" data-provider="Datos Login" finished-at="2023-01-15T21:55:59 ART" duration-ms="14384" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[standard_user]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[secret_sauce]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[bike light]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Emanuel]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Hernandez]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[2000]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pruebaSauceDemo -->
+        <test-method signature="pruebaSauceDemo(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Edit.SauceDemo.Asignacion6@235834f2]" started-at="2023-01-15T21:55:59 ART" name="pruebaSauceDemo" data-provider="Datos Login" finished-at="2023-01-15T21:56:02 ART" duration-ms="2896" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[secret_sauce]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[backpack]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Emanuel]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Hernandez]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[2000]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pruebaSauceDemo -->
+        <test-method signature="pruebaSauceDemo(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Edit.SauceDemo.Asignacion6@235834f2]" started-at="2023-01-15T21:56:02 ART" name="pruebaSauceDemo" data-provider="Datos Login" finished-at="2023-01-15T21:56:05 ART" duration-ms="2900" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[standard_user]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[t-shirt-(red)]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Emanuel]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Hernandez]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[2000]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pruebaSauceDemo -->
+        <test-method signature="pruebaSauceDemo(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Edit.SauceDemo.Asignacion6@235834f2]" started-at="2023-01-15T21:56:05 ART" name="pruebaSauceDemo" data-provider="Datos Login" finished-at="2023-01-15T21:56:29 ART" duration-ms="24765" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[performance_glitch_user]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[secret_sauce]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[bolt t-shirt]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Emanuel]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Hernandez]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[2000]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pruebaSauceDemo -->
+        <test-method signature="pruebaSauceDemo(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Edit.SauceDemo.Asignacion6@235834f2]" started-at="2023-01-15T21:56:29 ART" name="pruebaSauceDemo" data-provider="Datos Login" finished-at="2023-01-15T21:56:40 ART" duration-ms="10693" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[standard_user]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[secret_sauce]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[fleece jacket]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Hernandez]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[2000]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pruebaSauceDemo -->
+        <test-method signature="pruebaSauceDemo(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Edit.SauceDemo.Asignacion6@235834f2]" started-at="2023-01-15T21:56:40 ART" name="pruebaSauceDemo" data-provider="Datos Login" finished-at="2023-01-15T21:56:51 ART" duration-ms="10733" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[standard_user]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[secret_sauce]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[backpack]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Emanuel]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[2000]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pruebaSauceDemo -->
+        <test-method signature="pruebaSauceDemo(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Edit.SauceDemo.Asignacion6@235834f2]" started-at="2023-01-15T21:56:51 ART" name="pruebaSauceDemo" data-provider="Datos Login" finished-at="2023-01-15T21:57:02 ART" duration-ms="10968" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[standard_user]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[secret_sauce]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[onesie]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Emanuel]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Hernandez]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pruebaSauceDemo -->
+        <test-method is-config="true" signature="cierraNavegador()[pri:0, instance:Edit.SauceDemo.Asignacion6@235834f2]" started-at="2023-01-15T21:57:02 ART" name="cierraNavegador" finished-at="2023-01-15T21:57:02 ART" duration-ms="187" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cierraNavegador -->
+      </class> <!-- Edit.SauceDemo.Asignacion6 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
